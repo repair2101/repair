@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-bwdmo2=m%n$#upv!c)8nmubzagpgl1n(2q3m&ezvyt^ew9+_mc
 DEBUG = True
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'nikah-knf6.onrender.com' ]
+ALLOWED_HOSTS = ['127.0.0.1', 'repair2101.onrender.com' ]
 
 # Application definition
 
